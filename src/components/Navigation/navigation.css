@@ -1,0 +1,16 @@
+.custom-nav-bar{
+    background-color: #e5e3e7;
+    width: 100%;
+    top: 0;
+    overflow: hidden;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    margin-left: 22rem;
+}
+
+
+

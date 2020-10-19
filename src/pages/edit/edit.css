@@ -1,0 +1,10 @@
+form{
+    width: 40rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 10rem;
+    flex-grow: 1;
+}
+

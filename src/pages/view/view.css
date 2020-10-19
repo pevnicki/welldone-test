@@ -1,0 +1,14 @@
+.custom-container{
+    width: 100%;
+    height: 30rem;
+    background-color: #bfbfbd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-container>h1 {
+    margin:auto;
+    line-height:50px;
+    vertical-align:middle;
+}
